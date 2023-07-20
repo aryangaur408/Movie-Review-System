@@ -1,6 +1,5 @@
 # Marvel Movie Review System
 
-![Marvel Movie Review System](https://imgc.allpostersimages.com/img/posters/trends-international-24x36-marvel-avengers-endgame-one-sheet_u-L-Q1RG7JC0.jpg) 
 
 Welcome to the Marvel Movie Review System repository! This project aims to create a user-friendly web application where Marvel fans can review and discuss their favorite Marvel movies.
 
