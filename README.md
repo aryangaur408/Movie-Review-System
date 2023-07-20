@@ -48,6 +48,17 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Special thanks to the Marvel Studios for creating such amazing movies that inspire this project.
-- Thanks to [Name of Tutorial/Guide/Resource] for providing guidance and assistance during the development process.
+- Thanks to my professors for providing guidance and assistance during the development process.
 
 Feel free to explore the code and make it your own! If you have any questions or need further assistance, please don't hesitate to reach out. Enjoy reviewing your favorite Marvel movies!
+
+## Contact
+
+If you have any questions or need further assistance, please don't hesitate to reach me out:
+
+- Name- Aryan Singh Gaur
+- Email- aryangaur408@gmail.com
+- LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
+- Github- https://github.com/aryangaur408
+
+Happy coding!
