@@ -25,8 +25,8 @@ Welcome to the Marvel Movie Review System repository! This project aims to creat
 
 1. Set up a local web server environment (e.g., XAMPP). 
 2. Clone the repository: `git clone https://github.com/aryangaur408/Movie-Review-System.git` into your htdocs folder inside the XAMPP folder, which will be there when you intall XAMPP.
-3. Create a database name 'prutor' into XAMPP by going to 'http://localhost/phpmyadmin/', after starting you XAMPP.
-4. Import the database file `fullstack-movie-project.sql` into your MySQL 'http://localhost/phpmyadmin/'
+3. Create a database name `prutor` into XAMPP by going to `http://localhost/phpmyadmin/`, after starting you XAMPP.
+4. Import the database file `fullstack-movie-project.sql` into your MySQL `http://localhost/phpmyadmin/`.
 5. Configure the database connection settings in `config.php`.
 6. Start the web server and access the application in your browser.
 
