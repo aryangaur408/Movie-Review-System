@@ -60,6 +60,5 @@ If you have any questions or need further assistance, please don't hesitate to r
 - Name- [Aryan Singh Gaur](https://prtfoilo.netlify.app/)
 - Email- aryangaur408@gmail.com
 - LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
-- Github- https://github.com/aryangaur408
 
 Happy coding!
