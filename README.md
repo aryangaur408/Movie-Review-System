@@ -6,7 +6,7 @@ Welcome to the Marvel Movie Review System repository! This project aims to creat
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies Used](#technologies used)
+- [Technologies Used](#technologiesused)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
