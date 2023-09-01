@@ -3,6 +3,18 @@
 
 Welcome to the Marvel Movie Review System repository! This project aims to create a user-friendly web application where Marvel fans can review and discuss their favorite Marvel movies.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 ## Features
 
 - Browse a comprehensive list of Marvel movies.
